@@ -1,31 +1,29 @@
-# 👋 ¡Hola! Soy Morphy137
-
 <!-- Banner de Bienvenida -->
 <p align="center">
     <img width="100%" src="./assets/gif/Morphy137.gif" alt="Banner Morphy137"/>
 </p>
 
+## 💭 Just me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+<p>
+Me encanta jugar con diferentes herramientas de programación y ver cómo mis ideas cobran vida. La mayor parte del tiempo ando experimentando con Unity o armando programitas que me hagan la vida más fácil.<br><br>
+Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquito más en lo que hago.<br><br>
+<sub>💡 Dato curioso: programo mejor cuando tengo chocolate a mano.</sub>
+</p>
+</td>
+<td width="40%" align="center" valign="middle">
+<img src="assets/gif/choso-jjk.gif" width="220" alt="Coding gif"/>
+</td>
+</tr>
+</table>
 
-## 👨‍💻 Sobre mí
-
-<img align="right" width="300" src="assets/gif/choso-jjk.gif" alt="Coding gif"/>
-
-Me encanta jugar con diferentes herramientas de programación y ver cómo mis ideas cobran vida. La mayor parte del tiempo ando experimentando con Unity o armando programitas que me hagan la vida más fácil.
-
-Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquito más en lo que hago. Dato curioso: programo mejor cuando tengo chocolate a mano.
-
-<br clear="right"/>
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Languages and Tools
 
 <p align="center">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=cs,python,java,unity,react,figma,git" width="350"/>
 </p>
 
 ## 📈 Estadísticas de GitHub
@@ -39,17 +37,7 @@ Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquit
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morphy137&bg_color=1f2023&color=b6ad89&line=e03c8a&point=00aeff&area=true&hide_border=true"/>
 </div>
 
-## 🚀 Proyectos Destacados
-
-### 🎮 Juego de Ritmo
-
-<div align="center">
-
-**Tecnologías:** Unity, C#, Pixel Art  
-**Descripción:** Juego de ritmo 2D para GameJam  
-[🎮 Jugar](https://github.com/Morphy137/RanadaProject) | [📱 Trailer](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-</div>
+## 🚀 Proyectos
 
 <table>
 <tr>
@@ -60,7 +48,7 @@ Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquit
 <br>
 <p>
 <a href="https://github.com/Morphy137/MusicDownloader" target="_blank">
-<img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="assets/icons/github.svg" width="40" title="GitHub"/>
 </a>
 </p>
 </div>
@@ -71,8 +59,11 @@ Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquit
 <img src="assets/projects/RanadaGame.png" width="100%"/>
 <br>
 <p>
-<a href="https://github.com/Morphy137/RanadaProject" target="_blank">
-<img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Morphy137" target="_blank">
+  <img src="assets/icons/github.svg" width="40" title="GitHub"/>
+</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+  <img src="assets/icons/youtube.svg" width="40" title="YouTube"/>
 </a>
 </p>
 </div>
@@ -83,17 +74,23 @@ Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquit
 ## 📫 Información de Contacto
 
 <div align="center">
-    <a href="mailto:esteban.onate137@proton.me">
-        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+    <a href="mailto:esteban.onate137@proton.me" target="_blank">
+        <img src="assets/icons/protonmail.svg" width="40" height="40" title="ProtonMail"/>
     </a>
-    <a href="https://www.linkedin.com/in/esteban-o%C3%B1ate-a8054a351/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/esteban-o%C3%B1ate-a8054a351/" target="_blank">
+        <img src="assets/icons/linkedin.svg" width="48" height="48" title="LinkedIn"/>
     </a>
-    <a href="https://discord.com/users/mortyph">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <a href="https://discord.com/users/mortyph" target="_blank">
+        <img src="assets/icons/discord.svg" width="40" height="40" title="Discord"/>
     </a>
-    <a href="https://steamcommunity.com/id/MortyCL/">
-        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+    <a href="https://steamcommunity.com/id/MortyCL/" target="_blank">
+        <img src="assets/icons/steam.svg" width="40" height="40" title="Steam"/>
+    </a>
+    <a href="https://open.spotify.com/user/4klxoqri3v4ch9o4grg8joz1t" target="_blank">
+        <img src="assets/icons/spotify.svg" width="40" height="40" title="Spotify"/>
+    </a>
+    <a href="https://github.com/Morphy137" target="_blank">
+        <img src="assets/icons/github.svg" width="40" height="40" title="GitHub"/>
     </a>
 </div>
 
