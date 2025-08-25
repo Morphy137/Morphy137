@@ -2,39 +2,41 @@
 
 ## 1. 📁 Estructura del Repositorio
 
-```
 Morphy137/
 ├── README.md
 ├── assets/
-│   ├── images/
-│   │   ├── banner.gif
-│   │   ├── profile-3d.svg
-│   │   └── projects/
-│   ├── icons/
-│   └── gifs/
+│ ├── images/
+│ │ ├── banner.gif
+│ │ ├── profile-3d.svg
+│ │ └── projects/
+│ ├── icons/
+│ └── gifs/
 ├── .github/
-│   └── workflows/
-│       └── update-stats.yml
+│ └── workflows/
+│ └── update-stats.yml
 └── scripts/
-    └── update-readme.py
-```
+└── update-readme.py
+
+
 
 ## 2. 🎭 Headers y Banners Animados
 
 ### Banners con typing animation:
-```markdown
+markdown
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hola%2C+soy+Morphy137+%F0%9F%91%8B;Game+Developer+%26+Programmer;Creando+experiencias+interactivas" alt="Typing SVG" />
-```
+
 
 ### Banners personalizados con canvas:
-```markdown
+
+markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Morphy137&fontSize=42&fontColor=white&animation=twinkling"/>
-```
+
 
 ## 3. 🌟 Secciones de Presentación
 
 ### About Me con iconos y animaciones:
-```markdown
+
+markdown
 ## 👨‍💻 Sobre mí
 
 <img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding gif"/>
@@ -43,22 +45,25 @@ Morphy137/
 🚀 **Full Stack Developer** con enfoque en experiencias de usuario  
 🎨 **Creative Coder** explorando arte generativo y visualizaciones  
 📚 Siempre aprendiendo nuevas tecnologías  
-🌟 Transformando ideas en código funcional  
+🌟 Transformando ideas en código funcional
 
 ### 🎯 Actualmente:
+
 - 🔭 Trabajando en: **[Proyecto actual]**
 - 🌱 Aprendiendo: **[Tecnología nueva]**
 - 💬 Pregúntame sobre: **Game Development, Unity, C#**
 - ⚡ Dato curioso: **[Algo interesante sobre ti]**
-```
+
 
 ## 4. 💻 Tecnologías y Herramientas
 
 ### Con iconos animados:
-```markdown
+
+markdown
 ## 🛠️ Tecnologías & Herramientas
 
 ### 💾 Lenguajes de Programación:
+
 <p>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -67,6 +72,7 @@ Morphy137/
 </p>
 
 ### 🎮 Game Development:
+
 <p>
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
@@ -74,24 +80,27 @@ Morphy137/
 </p>
 
 ### 🌐 Desarrollo Web:
+
 <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
-```
+
 
 ### Con iconos de skills animados:
-```markdown
+
+markdown
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,unity,python,js,react,nodejs,git,figma&theme=dark" />
 </p>
-```
+
 
 ## 5. 📊 Estadísticas Avanzadas
 
 ### GitHub Stats mejorados:
-```markdown
+
+markdown
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
@@ -100,28 +109,33 @@ Morphy137/
 </div>
 
 ### 🔥 Streak Stats:
+
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morphy137&theme=tokyonight&hide_border=true"/>
 </div>
-```
+
 
 ### Gráfico 3D de contribuciones:
-```markdown
+
+markdown
 ### 🏗️ Contribuciones 3D:
+
 <div align="center">
     <img src="./assets/images/profile-3d-contrib.svg" width="100%"/>
 </div>
-```
+
 
 ## 6. 🎯 Proyectos Destacados
 
 ### Tarjetas de proyectos:
-```markdown
+
+markdown
 ## 🚀 Proyectos Destacados
 
 <div align="center">
 
 ### 🎮 Juego de Aventuras 2D
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Morphy137&repo=adventure-game&theme=tokyonight&hide_border=true)](https://github.com/Morphy137/adventure-game)
 
 **Tecnologías:** Unity, C#, Pixel Art  
@@ -129,6 +143,7 @@ Morphy137/
 [🎮 Jugar](enlace) | [📱 Trailer](enlace)
 
 ### 🌐 Portfolio Web Interactivo
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Morphy137&repo=portfolio-web&theme=tokyonight&hide_border=true)](https://github.com/Morphy137/portfolio-web)
 
 **Tecnologías:** React, Three.js, GSAP  
@@ -136,10 +151,11 @@ Morphy137/
 [🌐 Ver sitio](enlace) | [💾 Código](enlace)
 
 </div>
-```
+
 
 ### Galería visual:
-```markdown
+
+markdown
 <table>
 <tr>
 <td width="50%">
@@ -174,38 +190,45 @@ Morphy137/
 </td>
 </tr>
 </table>
-```
+
 
 ## 7. 🎨 Elementos Visuales y Animaciones
 
 ### Snake animation (commits):
-```markdown
+
+markdown
 ### 🐍 Mis contribuciones siendo devoradas:
+
 <div align="center">
     <img src="https://github.com/Morphy137/Morphy137/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
-```
+
 
 ### Gráficos de actividad:
-```markdown
+
+markdown
 ### 📊 Actividad semanal:
+
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morphy137&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
-```
+
 
 ### Trofeos de GitHub:
-```markdown
+
+markdown
 ### 🏆 Trofeos de GitHub:
+
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Morphy137&theme=tokyonight&no-frame=true&column=7"/>
 </div>
-```
+
 
 ## 8. 📱 Información de Contacto
 
 ### Con iconos sociales:
-```markdown
+
+markdown
 ## 📫 ¡Conectemos!
 
 <div align="center">
@@ -222,34 +245,38 @@ Morphy137/
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 </div>
-```
+
 
 ### Visitantes del perfil:
-```markdown
+
+markdown
+
 ### 👀 Visitantes del perfil:
+
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Morphy137&style=for-the-badge&color=brightgreen"/>
 </div>
-```
 
 ## 9. 🎵 Integración con Spotify (opcional)
 
-```markdown
+markdown
+
 ### 🎵 Escuchando ahora:
-<div align="center">
+
+<p align="center">
     <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify"/>
-</div>
-```
+</p>
 
 ## 10. ⚡ GitHub Actions para Automatización
 
 ### Archivo `.github/workflows/update-stats.yml`:
-```yaml
+
+yaml
 name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Diario a medianoche
+    - cron: "0 0 * * *" # Diario a medianoche
   workflow_dispatch:
 
 jobs:
@@ -262,11 +289,12 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-```
+
 
 ## 11. 🎨 Temas y Estilos Recomendados
 
 ### Temas populares:
+
 - `tokyonight`
 - `dracula`
 - `radical`
@@ -277,24 +305,28 @@ jobs:
 - `synthwave`
 
 ### Paletas de colores:
-```markdown
+
+markdown
 <!-- Tema oscuro futurista -->
+
 ![#0a0a0a](https://via.placeholder.com/15/0a0a0a/000000?text=+) `#0a0a0a`
 ![#f92672](https://via.placeholder.com/15/f92672/000000?text=+) `#f92672`
 ![#a6e22e](https://via.placeholder.com/15/a6e22e/000000?text=+) `#a6e22e`
 ![#66d9ef](https://via.placeholder.com/15/66d9ef/000000?text=+) `#66d9ef`
-```
+
 
 ## 12. 💡 Tips para Game Developers
 
 ### Showcase de juegos:
-```markdown
+
+markdown
 ### 🎮 Mis Juegos
 
 <details>
 <summary>🕹️ Ver galería de juegos</summary>
 
 #### 🏃‍♂️ Runner Infinito
+
 - **Género:** Endless Runner
 - **Plataforma:** Mobile (Android/iOS)
 - **Engine:** Unity 2022.3
@@ -304,6 +336,7 @@ jobs:
 <img src="assets/images/runner-game.gif" width="400"/>
 
 #### 🧩 Puzzle Aventura
+
 - **Género:** Puzzle-Adventure
 - **Plataforma:** PC/Steam
 - **Engine:** Godot 4.0
@@ -313,28 +346,29 @@ jobs:
 <img src="assets/images/puzzle-game.gif" width="400"/>
 
 </details>
-```
+
 
 ### Skills específicos de gamedev:
-```markdown
+
+markdown
 ### 🎨 Game Development Skills
 
 <div align="center">
 
-| Área | Nivel | Tecnologías |
-|------|-------|-------------|
-| 🎮 **Game Design** | ⭐⭐⭐⭐⭐ | Mecánicas, Balanceo, UX |
-| 🎨 **Arte 2D** | ⭐⭐⭐⭐ | Pixel Art, Sprites, UI |
-| 🔊 **Audio** | ⭐⭐⭐ | FMOD, Wwise, Sound Design |
-| 📱 **Mobile** | ⭐⭐⭐⭐ | Android, iOS, Touch Controls |
-| 🌐 **Multiplayer** | ⭐⭐⭐ | Netcode, Mirror, Photon |
+| Área               | Nivel      | Tecnologías                  |
+| ------------------ | ---------- | ---------------------------- |
+| 🎮 **Game Design** | ⭐⭐⭐⭐⭐ | Mecánicas, Balanceo, UX      |
+| 🎨 **Arte 2D**     | ⭐⭐⭐⭐   | Pixel Art, Sprites, UI       |
+| 🔊 **Audio**       | ⭐⭐⭐     | FMOD, Wwise, Sound Design    |
+| 📱 **Mobile**      | ⭐⭐⭐⭐   | Android, iOS, Touch Controls |
+| 🌐 **Multiplayer** | ⭐⭐⭐     | Netcode, Mirror, Photon      |
 
 </div>
-```
+
 
 ## 13. 🔧 Footer Personalizado
 
-```markdown
+markdown
 ---
 
 <div align="center">
@@ -345,11 +379,12 @@ jobs:
     <sub>💡 **Pro tip:** Presiona <kbd>.</kbd> en cualquier repo para abrir VS Code en el navegador</sub>
     
 </div>
-```
+
 
 ## 📚 Recursos Adicionales
 
 ### Generadores útiles:
+
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Skill Icons](https://skillicons.dev/)
 - [Shields.io](https://shields.io/)
@@ -358,6 +393,7 @@ jobs:
 - [Capsule Render](https://github.com/kyechan99/capsule-render)
 
 ### Inspiración:
+
 - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [Creative Profiles](https://zzetao.github.io/awesome-github-profile/)
 
