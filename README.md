@@ -1,82 +1,55 @@
-# 🎨 Guía Completa: README de GitHub como Portafolio
-<!-- Banner de top -->
-<img width="100%" src="./assets/gif/Morphy137.gif" style="position: top;"/>
+# 👋 ¡Hola! Soy Morphy137
 
-## 3. 🌟 Secciones de Presentación
+<!-- Banner de Bienvenida -->
+<p align="center">
+    <img width="100%" src="./assets/gif/Morphy137.gif" alt="Banner Morphy137"/>
+</p>
+
+
 
 ## 👨‍💻 Sobre mí
 
 <img align="right" width="300" src="assets/gif/choso-jjk.gif" alt="Coding gif"/>
 
-Me gusta explorar diversas herramientas de programacion para dar vida a mis ideas, usualmente estoy practicando con unity o creando programas variados para facilitar cosas de uso diario.
+Me encanta jugar con diferentes herramientas de programación y ver cómo mis ideas cobran vida. La mayor parte del tiempo ando experimentando con Unity o armando programitas que me hagan la vida más fácil.
 
-## 4. 💻 Tecnologías y Herramientas
+Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquito más en lo que hago. Dato curioso: programo mejor cuando tengo chocolate a mano.
 
-### Con iconos animados:
-
+<br clear="right"/>
 ## 🛠️ Tecnologías & Herramientas
 
-### 💾 Lenguajes de Programación:
-
-<p>
+<p align="center">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-### 🎮 Game Development:
-
-<p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
-</p>
-
-### 🌐 Desarrollo Web:
-
-<p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
-### Con iconos de skills animados:
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,unity,python,js,react,nodejs,git,figma&theme=dark" />
-</p>
-
-## 5. 📊 Estadísticas Avanzadas
-
-### GitHub Stats mejorados:
 
 ## 📈 Estadísticas de GitHub
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Morphy137&theme=bear&show_icons=true&hide_border=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morphy137&theme=bear&hide_border=true"/>
 </p>
 
-### 📊 Actividad semanal:
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morphy137&bg_color=1f2023&color=b6ad89&line=e03c8a&point=00aeff&area=true&hide_border=true"/>
 </div>
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-
 ### 🎮 Juego de Ritmo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Morphy137&repo=adventure-game&theme=tokyonight&hide_border=true)](https://github.com/Morphy137/RanadaProject)
+<div align="center">
 
 **Tecnologías:** Unity, C#, Pixel Art  
-**Descripción:** Juego de ritmo 2D para GameJam
+**Descripción:** Juego de ritmo 2D para GameJam  
 [🎮 Jugar](https://github.com/Morphy137/RanadaProject) | [📱 Trailer](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 </div>
-
-### Galería visual:
 
 <table>
 <tr>
@@ -107,11 +80,11 @@ Me gusta explorar diversas herramientas de programacion para dar vida a mis idea
 </tr>
 </table>
 
-## 8. 📱 Información de Contacto
+## 📫 Información de Contacto
 
 <div align="center">
     <a href="mailto:esteban.onate137@proton.me">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/esteban-o%C3%B1ate-a8054a351/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -120,8 +93,11 @@ Me gusta explorar diversas herramientas de programacion para dar vida a mis idea
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     <a href="https://steamcommunity.com/id/MortyCL/">
-        Steam
+        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
     </a>
 </div>
 
-<img width="100%" src="./assets/gif/Farewell.gif" style="position: top;"/>
+<!-- Banner de Despedida -->
+<p align="center">
+    <img width="100%" src="./assets/gif/Farewell.gif" alt="Banner Farewell"/>
+</p>
