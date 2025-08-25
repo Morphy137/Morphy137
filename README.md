@@ -17,26 +17,20 @@ Morphy137/
 └── scripts/
 └── update-readme.py
 
-
-
 ## 2. 🎭 Headers y Banners Animados
 
 ### Banners con typing animation:
-markdown
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hola%2C+soy+Morphy137+%F0%9F%91%8B;Game+Developer+%26+Programmer;Creando+experiencias+interactivas" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hola%2C+soy+Morphy137+%F0%9F%91%8B;Game+Developer+%26+Programmer;Creando+experiencias+interactivas" alt="Typing SVG" />
 
 ### Banners personalizados con canvas:
 
-markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Morphy137&fontSize=42&fontColor=white&animation=twinkling"/>
-
 
 ## 3. 🌟 Secciones de Presentación
 
 ### About Me con iconos y animaciones:
 
-markdown
 ## 👨‍💻 Sobre mí
 
 <img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding gif"/>
@@ -54,12 +48,10 @@ markdown
 - 💬 Pregúntame sobre: **Game Development, Unity, C#**
 - ⚡ Dato curioso: **[Algo interesante sobre ti]**
 
-
 ## 4. 💻 Tecnologías y Herramientas
 
 ### Con iconos animados:
 
-markdown
 ## 🛠️ Tecnologías & Herramientas
 
 ### 💾 Lenguajes de Programación:
@@ -87,20 +79,16 @@ markdown
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-
 ### Con iconos de skills animados:
 
-markdown
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,unity,python,js,react,nodejs,git,figma&theme=dark" />
 </p>
-
 
 ## 5. 📊 Estadísticas Avanzadas
 
 ### GitHub Stats mejorados:
 
-markdown
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
@@ -114,22 +102,18 @@ markdown
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morphy137&theme=tokyonight&hide_border=true"/>
 </div>
 
-
 ### Gráfico 3D de contribuciones:
 
-markdown
 ### 🏗️ Contribuciones 3D:
 
 <div align="center">
     <img src="./assets/images/profile-3d-contrib.svg" width="100%"/>
 </div>
 
-
 ## 6. 🎯 Proyectos Destacados
 
 ### Tarjetas de proyectos:
 
-markdown
 ## 🚀 Proyectos Destacados
 
 <div align="center">
@@ -152,10 +136,8 @@ markdown
 
 </div>
 
-
 ### Galería visual:
 
-markdown
 <table>
 <tr>
 <td width="50%">
@@ -191,44 +173,36 @@ markdown
 </tr>
 </table>
 
-
 ## 7. 🎨 Elementos Visuales y Animaciones
 
 ### Snake animation (commits):
 
-markdown
 ### 🐍 Mis contribuciones siendo devoradas:
 
 <div align="center">
     <img src="https://github.com/Morphy137/Morphy137/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
-
 ### Gráficos de actividad:
 
-markdown
 ### 📊 Actividad semanal:
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morphy137&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
-
 ### Trofeos de GitHub:
 
-markdown
 ### 🏆 Trofeos de GitHub:
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Morphy137&theme=tokyonight&no-frame=true&column=7"/>
 </div>
 
-
 ## 8. 📱 Información de Contacto
 
 ### Con iconos sociales:
 
-markdown
 ## 📫 ¡Conectemos!
 
 <div align="center">
@@ -246,10 +220,7 @@ markdown
     </a>
 </div>
 
-
 ### Visitantes del perfil:
-
-markdown
 
 ### 👀 Visitantes del perfil:
 
@@ -258,8 +229,6 @@ markdown
 </div>
 
 ## 9. 🎵 Integración con Spotify (opcional)
-
-markdown
 
 ### 🎵 Escuchando ahora:
 
@@ -275,21 +244,17 @@ yaml
 name: Update README
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Diario a medianoche
-  workflow_dispatch:
+schedule: - cron: "0 0 \* \* \*" # Diario a medianoche
+workflow_dispatch:
 
 jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Update README
-        uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
+update-readme:
+runs-on: ubuntu-latest
+steps: - uses: actions/checkout@v2 - name: Update README
+uses: anmol098/waka-readme-stats@master
+with:
+WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
 ## 11. 🎨 Temas y Estilos Recomendados
 
@@ -306,20 +271,17 @@ jobs:
 
 ### Paletas de colores:
 
-markdown
 <!-- Tema oscuro futurista -->
 
-![#0a0a0a](https://via.placeholder.com/15/0a0a0a/000000?text=+) `#0a0a0a`
-![#f92672](https://via.placeholder.com/15/f92672/000000?text=+) `#f92672`
-![#a6e22e](https://via.placeholder.com/15/a6e22e/000000?text=+) `#a6e22e`
-![#66d9ef](https://via.placeholder.com/15/66d9ef/000000?text=+) `#66d9ef`
-
+![#0a0a0a](https://via.placeholder.com/15/0a0a0a/000000?text=+) #0a0a0a  
+![#f92672](https://via.placeholder.com/15/f92672/000000?text=+) #f92672  
+![#a6e22e](https://via.placeholder.com/15/a6e22e/000000?text=+) #a6e22e  
+![#66d9ef](https://via.placeholder.com/15/66d9ef/000000?text=+) #66d9ef  
 
 ## 12. 💡 Tips para Game Developers
 
 ### Showcase de juegos:
 
-markdown
 ### 🎮 Mis Juegos
 
 <details>
@@ -347,10 +309,8 @@ markdown
 
 </details>
 
-
 ### Skills específicos de gamedev:
 
-markdown
 ### 🎨 Game Development Skills
 
 <div align="center">
@@ -365,19 +325,15 @@ markdown
 
 </div>
 
-
 ## 13. 🔧 Footer Personalizado
-
-markdown
----
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
     
-    ### ⭐ ¡Si te gustó mi perfil, dale una estrella a mis repos! ⭐
-    
-    <sub>💡 **Pro tip:** Presiona <kbd>.</kbd> en cualquier repo para abrir VS Code en el navegador</sub>
-    
+**⭐ ¡Si te gustó mi perfil, dale una estrella a mis repos! ⭐**
+
+💡 **Pro tip:** Presiona `.` en cualquier repo para abrir VS Code en el navegador
+
 </div>
 
 
