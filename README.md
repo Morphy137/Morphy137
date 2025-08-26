@@ -28,11 +28,16 @@ Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquit
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morphy137&theme=bear&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morphy137&theme=bear&hide_border=true"/>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Morphy137&theme=bear&show_icons=true&hide_border=true&count_private=true" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morphy137&theme=bear&hide_border=true" height="180"/>
+    </td>
+  </tr>
+</table>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morphy137&bg_color=1f2023&color=b6ad89&line=e03c8a&point=00aeff&area=true&hide_border=true"/>
 </div>
