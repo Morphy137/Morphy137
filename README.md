@@ -1,40 +1,100 @@
-# 💫 About Me:
-My name is **Esteban Oñate**, and I am currently studying **Civil Computer Engineering** at the **University of Valparaíso** in Chile.
+<!-- Banner de Bienvenida -->
+<p align="center">
+    <img width="100%" src="./assets/gif/Morphy137.gif" alt="Banner Morphy137"/>
+</p>
 
-I am passionate about exploring the various technologies that programming offers. Currently, I am focused on learning **Unity** and **video game development**, although I am also interested in exploring other areas such as **software development**.
+## 💭 Just me
 
-Something about me is that I always strive to leave things in their best version, finding the most optimal ways to do them and executing them in an organized and efficient manner.
+<table>
+<tr>
+<td width="60%" valign="top">
+<p>
+Me encanta jugar con diferentes herramientas de programación y ver cómo mis ideas cobran vida. La mayor parte del tiempo ando experimentando con Unity o armando programitas que me hagan la vida más fácil.<br><br>
+Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquito más en lo que hago.<br><br>
+<sub>💡 Dato curioso: programo mejor cuando tengo chocolate a mano.</sub>
+</p>
+</td>
+<td width="40%" align="center" valign="middle">
+<img src="assets/gif/choso-jjk.gif" width="220" alt="Coding gif"/>
+</td>
+</tr>
+</table>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/onate_zzz) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@MorphyCD)
+## 🛠️ Languages and Tools
 
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cs,python,java,unity,react,figma,git" width="350"/>
+</p>
 
-## 📊 GitHub Stats:
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Morphy137&theme=bear&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morphy137&theme=bear&hide_border=true"/>
+</p>
+
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Morphy137&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=contribs)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Morphy137&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Morphy137&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morphy137&bg_color=1f2023&color=b6ad89&line=e03c8a&point=00aeff&area=true&hide_border=true"/>
 </div>
 
-## 🏆 GitHub Trophies:
+## 🚀 Proyectos
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Morphy Downloader</h3>
+<div align="center">  
+<img src="assets/projects/MorphyDownloader.png" width="80%"/>
+<br>
+<p>
+<a href="https://github.com/Morphy137/MusicDownloader" target="_blank">
+  <img src="assets/icons/github.svg" width="40" title="GitHub"/>
+</a>
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Ranada Game</h3>
 <div align="center">
+<img src="assets/projects/RanadaGame.png" width="100%"/>
+<br>
+<p>
+<a href="https://github.com/Morphy137" target="_blank">
+  <img src="assets/icons/github.svg" width="40" title="GitHub"/>
+</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+  <img src="assets/icons/youtube.svg" width="40" title="YouTube"/>
+</a>
+</p>
+</div>
+</td>
+</tr>
+</table>
 
-![](https://github-profile-trophy.vercel.app/?username=Morphy137&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+## 📫 Información de Contacto
 
+<div align="center">
+    <a href="mailto:esteban.onate137@proton.me" target="_blank">
+        <img src="assets/icons/protonmail.svg" width="40" height="40" title="ProtonMail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/esteban-o%C3%B1ate-a8054a351/" target="_blank">
+        <img src="assets/icons/linkedin.svg" width="48" height="48" title="LinkedIn"/>
+    </a>
+    <a href="https://discord.com/users/mortyph" target="_blank">
+        <img src="assets/icons/discord.svg" width="40" height="40" title="Discord"/>
+    </a>
+    <a href="https://steamcommunity.com/id/MortyCL/" target="_blank">
+        <img src="assets/icons/steam.svg" width="40" height="40" title="Steam"/>
+    </a>
+    <a href="https://open.spotify.com/user/4klxoqri3v4ch9o4grg8joz1t" target="_blank">
+        <img src="assets/icons/spotify.svg" width="40" height="40" title="Spotify"/>
+    </a>
+    <a href="https://github.com/Morphy137" target="_blank">
+        <img src="assets/icons/github.svg" width="40" height="40" title="GitHub"/>
+    </a>
 </div>
 
----
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Morphy137&icon=5&color=6)](https://visitcount.itsvg.in)
-
-</div>
+<!-- Banner de Despedida -->
+<p align="center">
+    <img width="100%" src="./assets/gif/Farewell.gif" alt="Banner Farewell"/>
+</p>
