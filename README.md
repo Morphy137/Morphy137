@@ -9,9 +9,9 @@
 <tr>
 <td width="60%" valign="top">
 <p>
-Me encanta jugar con diferentes herramientas de programación y ver cómo mis ideas cobran vida. La mayor parte del tiempo ando experimentando con Unity o armando programitas que me hagan la vida más fácil.<br><br>
-Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquito más en lo que hago.<br><br>
-<sub>💡 Dato curioso: programo mejor cuando tengo chocolate a mano.</sub>
+I love playing with different programming tools and seeing how my ideas come to life. Most of the time, I'm experimenting with Unity or building little programs that make my life easier.<br><br>
+I'm studying Computer Science Engineering and always try to give a little extra in everything I do.<br><br>
+<sub>💡 Fun fact: I code better when I have chocolate at hand.</sub>
 </p>
 </td>
 <td width="40%" align="center" valign="middle">
@@ -26,7 +26,7 @@ Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquit
     <img src="https://skillicons.dev/icons?i=cs,python,java,unity,react,figma,git" width="350"/>
 </p>
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 <table align="center">
   <tr>
@@ -42,7 +42,7 @@ Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquit
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morphy137&bg_color=1f2023&color=b6ad89&line=e03c8a&point=00aeff&area=true&hide_border=true"/>
 </div>
 
-## 🚀 Proyectos
+## 🚀 Projects
 
 <table>
 <tr>
@@ -76,7 +76,7 @@ Estoy estudiando Ingeniería Civil Informática y siempre trato de dar un poquit
 </tr>
 </table>
 
-## 📫 Información de Contacto
+## 📫 Contact Information
 
 <div align="center">
     <a href="mailto:esteban.onate137@proton.me" target="_blank">
