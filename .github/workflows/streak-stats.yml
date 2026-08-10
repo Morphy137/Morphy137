@@ -1,0 +1,47 @@
+name: Update profile streak
+
+on:
+  schedule:
+    - cron: "15 6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-streak
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@f69662e10794e8757b12d3303a113a30b01c9bc9
+        with:
+          options: >-
+            user=${{ github.repository_owner }}&theme=transparent&hide_border=true&background=1F2023&stroke=513343&ring=E03C8A&fire=E03C8A&currStreakNum=F6EAF0&sideNums=F6EAF0&currStreakLabel=E03C8A&sideLabels=D4BCC8&dates=B6AD89&timezone=America%2FSantiago&disable_animations=true
+          path: assets/stats/streak.svg
+          token: ${{ secrets.STREAK_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated card
+        shell: bash
+        run: |
+          if git diff --quiet -- assets/stats/streak.svg; then
+            echo "Streak card is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats/streak.svg
+          git commit -m "chore: update profile streak"
+          git push

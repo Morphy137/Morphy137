@@ -1,92 +1,135 @@
-<!-- Banner de Bienvenida -->
+<!-- Welcome banner -->
 <p align="center">
-    <img width="100%" src="./assets/gif/Morphy137.gif" alt="Banner Morphy137"/>
+  <img width="100%" src="./assets/gif/Morphy137.gif" alt="Morphy137 illustrated banner" />
 </p>
 
-## 💭 Just me
+<h1 align="center">Hi, I'm Esteban — Morphy online.</h1>
+
+<p align="center">
+  <strong>Junior Full Stack &amp; Android Developer</strong><br />
+  I build accessible web products and local-first mobile apps with an emphasis on clear architecture, performance, and maintainable code.
+</p>
+
+<p align="center">
+  <a href="https://www.mrmorphy.com/">Portfolio</a>
+  · <a href="https://www.linkedin.com/in/esteban-onate/">LinkedIn</a>
+  · <a href="./assets/files/CV_Esteban_Onate.pdf">Résumé</a>
+  · <a href="mailto:esteban.onate137@proton.me">Email</a>
+</p>
+
+<p align="center">
+  <sub>Based in Valparaíso, Chile · Open to junior opportunities, collaboration, and product-focused work</sub>
+</p>
+
+## Just me
 
 <table>
-<tr>
-<td width="60%" valign="top">
-<p>
-Full Stack Developer and Computer Civil Engineering student at the University of Valparaíso. Specialized in designing scalable solutions, ranging from containerized medical management systems to data flow automation using APIs. My approach combines robust technical architecture with practical execution aimed at solving real-world problems utilizing modern stacks and DevOps methodologies.<br><br>
-</p>
-</td>
-<td width="40%" align="center" valign="middle">
-<img src="assets/gif/choso-jjk.gif" width="220" alt="Coding gif"/>
-</td>
-</tr>
-</table>
-
-## 🛠️ Languages and Tools
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,docker,react,cs,python,java,unity,figma,git" width="600"/>
-</p>
-
-## 🌱 What I'm Up To
-<div align="center">
-  <p>Currently working on a <b>scalable e-commerce & management platform</b> for a custom furniture business, focusing on high maintainability and modern, simple user interfaces.</p>
-</div>
-
-
-## 📈 GitHub Stats
-
-<table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Morphy137&theme=bear&show_icons=true&hide_border=true&count_private=true" height="180"/>
+    <td width="72%" valign="top">
+      <p>
+        I am a Computer Civil Engineering student at the University of Valparaíso, focused on native Android and full-stack development. I enjoy taking products from an initial problem to a usable release: shaping the interface, defining technical boundaries, validating behavior, and documenting the decisions behind it.
+      </p>
+      <p>
+        My current work ranges from <strong>Kotlin and Jetpack Compose</strong> applications to <strong>React, Next.js, and TypeScript</strong> projects for real users and clients. I use AI-assisted and spec-driven workflows to research and iterate faster, but I only ship solutions I can understand, review, and maintain myself.
+      </p>
+      <p>
+        Away from product work, I like experimenting with Unity, game systems, visual design, and small tools that solve annoyingly specific problems.
+      </p>
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morphy137&theme=bear&hide_border=true" height="180"/>
+    <td width="28%" align="center" valign="middle">
+      <img src="./assets/gif/choso-jjk.gif" width="160" alt="Choso from Jujutsu Kaisen" />
     </td>
   </tr>
 </table>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morphy137&bg_color=1f2023&color=b6ad89&line=e03c8a&point=00aeff&area=true&hide_border=true"/>
-</div>
 
-## 🚀 Projects
+## Languages & tools
 
-### 🏥 Medical Booking System
-A professional full-stack platform for booking and managing medical appointments. The frontend is built with **React 18 & TypeScript**, featuring a modern glass-morphism aesthetic, Context API state management, and protected routes. The backend is a robust API powered by **Node.js, Express, and MySQL**, with secure JWT authentication and password encryption.
-<br>
-<a href="https://github.com/Morphy137" target="_blank"><img src="assets/icons/github.svg" width="30" title="GitHub"/></a>
+<p><strong>Web applications</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css&perline=8" alt="TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS, HTML, and CSS" />
+</p>
+<p><code>React 19</code> <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>REST APIs</code> <code>Playwright</code></p>
 
-### 🎵 Morphy Music Downloader
-An efficient desktop application that leverages the Spotify Developer API to fetch playlists and download tracks audio via YouTube. Features a highly configurable, multi-threaded engine capable of concurrent downloads, achieving an impressive ~90% accuracy rate in track matching.
-<br>
-<a href="https://github.com/Morphy137/MusicDownloader" target="_blank"><img src="assets/icons/github.svg" width="30" title="GitHub"/></a>
+<p><strong>Native Android</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle&perline=4" alt="Kotlin, Android Studio, Java, and Gradle" />
+</p>
+<p><code>Jetpack Compose</code> <code>Material 3</code> <code>Room</code> <code>DataStore</code> <code>Coroutines</code> <code>Flow</code> <code>Readium</code></p>
 
-### 🐸 Ranada Game
-A festive, rhythm-based 2D game developed in Unity during a collaborative Game Jam with DUOC UC students. Themed around Chile's "Fiestas Patrias", the game was a hit with players and proudly won the **Popularity Award**.
-<br>
-<a href="https://github.com/Morphy137" target="_blank"><img src="assets/icons/github.svg" width="30" title="GitHub"/></a>
-&nbsp;
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="assets/icons/youtube.svg" width="30" title="YouTube"/></a>
+<p><strong>Data, quality & delivery</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,prisma,docker,git,githubactions,vercel&perline=8" alt="MySQL, PostgreSQL, Supabase, Prisma, Docker, Git, GitHub Actions, and Vercel" />
+</p>
+<p><code>SQL</code> <code>CI/CD</code> <code>GitHub Actions</code> <code>ESLint</code> <code>Google Play Console</code></p>
 
-## 📫 Contact Information
+<details>
+  <summary><strong>Also in my toolbox</strong></summary>
+  <br />
+  <p>
+    <img src="https://skillicons.dev/icons?i=cs,unity,python,figma&perline=4" alt="C sharp, Unity, Python, and Figma" />
+  </p>
+  <p><code>C#</code> <code>Unity</code> <code>FMOD</code> <code>Python</code> <code>Figma</code></p>
+</details>
 
-<div align="center">
-    <a href="./assets/files/CV_Esteban_Onate.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Resume-Curriculum_Vitae-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV" height="40"/>
-    </a>
-    <br><br>
-    <a href="mailto:esteban.onate137@proton.me" target="_blank">
-        <img src="assets/icons/protonmail.svg" width="40" height="40" title="ProtonMail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/esteban-onate/" target="_blank">
-        <img src="assets/icons/linkedin.svg" width="48" height="48" title="LinkedIn"/>
-    </a>
-    <a href="https://discord.com/users/mortyph" target="_blank">
-        <img src="assets/icons/discord.svg" width="40" height="40" title="Discord"/>
-    </a>
-    <a href="https://github.com/Morphy137" target="_blank">
-        <img src="assets/icons/github.svg" width="40" height="40" title="GitHub"/>
-    </a>
-</div>
+## Selected work
 
-<!-- Banner de Despedida -->
+<a href="https://play.google.com/store/apps/details?id=com.mrmorphy.bunkora">
+  <img src="./assets/projects/BunkoraCover.jpg" width="100%" alt="Bunkora — Your library, your way" />
+</a>
+
+### Bunkora · Native Android / local-first
+
+A local-first Android library and reader for CBZ, CBR, EPUB, and PDF files. Bunkora keeps reading available without an account or connection while supporting collections, tags, search, persistent progress, specialized readers, and optional Google Drive backups.
+
+**Engineering:** layered `ui/domain/data` architecture, MVVM/UDF, Storage Access Framework without broad storage permissions, Room, DataStore, Coroutines, Flow, Readium, and format-specific reading pipelines.
+
+**Kotlin** · **Jetpack Compose** · **Material 3** · **Room** · **Readium** · **Coroutines**
+
+[Google Play](https://play.google.com/store/apps/details?id=com.mrmorphy.bunkora) · [Engineering showcase](https://github.com/Morphy137/BunkoraShowcase) · [Project details](https://www.mrmorphy.com/#projects)
+
+<br />
+
+<a href="https://mobeldesignconstruction.vercel.app/">
+  <img src="./assets/projects/MobelDesignCover.webp" width="100%" alt="Möbel Design Web landing page" />
+</a>
+
+### Möbel Design Web · Business website / production
+
+A production website for a custom furniture company in Valparaíso. The experience communicates the company's process and approach to materials, then turns each inquiry into a structured WhatsApp message without storing personal data or adding unnecessary infrastructure.
+
+**Engineering:** static App Router architecture, responsive image delivery, accessible interactions, technical SEO, reduced-motion support, continuous integration, and end-to-end coverage for desktop and mobile flows.
+
+**Next.js 16** · **React 19** · **TypeScript** · **Tailwind CSS 4** · **Motion** · **Playwright**
+
+[Visit the website](https://mobeldesignconstruction.vercel.app/) · [Public technical template](https://github.com/Morphy137/furniture-landing-template) · [Project details](https://www.mrmorphy.com/#projects)
+
+## Development rhythm
+
 <p align="center">
-    <img width="100%" src="./assets/gif/Farewell.gif" alt="Banner Farewell"/>
+  <a href="https://github.com/Morphy137">
+    <img src="./assets/stats/streak.svg" alt="Morphy137 GitHub contribution streak" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Generated daily from GitHub contribution data · Times evaluated in America/Santiago</sub>
+</p>
+
+## Let's connect
+
+<p>
+  I am open to junior Android, frontend, and full-stack opportunities where I can contribute to real products while continuing to grow through practical engineering work.
+</p>
+
+<p align="center">
+  <a href="https://www.mrmorphy.com/"><strong>mrmorphy.com</strong></a>
+  · <a href="https://www.linkedin.com/in/esteban-onate/">LinkedIn</a>
+  · <a href="mailto:esteban.onate137@proton.me">Email</a>
+  · <a href="./assets/files/CV_Esteban_Onate.pdf">Résumé</a>
+  · <a href="https://play.google.com/store/apps/details?id=com.mrmorphy.bunkora">Google Play</a>
+</p>
+
+<!-- Farewell banner -->
+<p align="center">
+  <img width="100%" src="./assets/gif/Farewell.gif" alt="Illustrated farewell banner" />
 </p>
